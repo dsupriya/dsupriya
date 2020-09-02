@@ -20,5 +20,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/supriya-dhavalshankh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="supriya-dhavalshankh" height="30" width="30" /></a>
 <a href="https://fb.com/supriya dhavalshankh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="supriya dhavalshankh" height="30" width="30" /></a>
-<a href="https://instagram.com/dhavalshankh.supriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="supriya_dhavalshankh" height="30" width="30" /></a>
+<a href="https://instagram.com/supriya_dhavalshankh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="supriya_dhavalshankh" height="30" width="30" /></a>
 </p>
